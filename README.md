@@ -14,5 +14,5 @@
 - **ML & Optimization:** Supervised and Unsupervised ML Models,CPLEX, GUROBI
 - **Other:** Statistics, Data Analysis, Linear Programming
 
-- 💼 [LinkedIn](www.linkedin.com/in/mrinmoyee-h-a7b606202)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mrinmoyee-h-a7b606202/)
 - 💻 [G-Mail](mrinmoyeehawladar@gmail.com)
