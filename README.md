@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Mrinmoyee Hawladar
 
-<!--
-**mrindoescoding/mrindoescoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Currently working as an Associate Data Science Consultant @https://www.ey.com/en_in **  
+📈 Working 9–5 in consulting, 5–9 on ML and optimization  
+📚 Writing mini-papers & case studies using Kaggle data  
+🌍 Love turning real-world problems into solvable models
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL, R
+- **ML & Optimization:** Supervised and Unsupervised ML Models,CPLEX, GUROBI
+- **Tools:** Jupyter, PySpark, Java, C, R, R-Studio
+- **Other:** Statistics, Data Analysis, Linear Programming
+
+- 💼 [LinkedIn](www.linkedin.com/in/mrinmoyee-h-a7b606202)
+- 💻 [G-Mail](mrinmoyeehawladar@gmail.com)
