@@ -10,9 +10,8 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, SQL, R
+- **Languages:** Python, SQL, PySpark, Java, C, R, R-Studio
 - **ML & Optimization:** Supervised and Unsupervised ML Models,CPLEX, GUROBI
-- **Tools:** Jupyter, PySpark, Java, C, R, R-Studio
 - **Other:** Statistics, Data Analysis, Linear Programming
 
 - 💼 [LinkedIn](www.linkedin.com/in/mrinmoyee-h-a7b606202)
