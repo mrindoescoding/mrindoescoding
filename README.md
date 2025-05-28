@@ -15,4 +15,4 @@
 - **Other:** Statistics, Data Analysis, Linear Programming
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mrinmoyee-h-a7b606202/)
-- 💻 [G-Mail]((mailto:mrinmoyeehawladar@gmail.com)
+- 💻 [G-Mail](mailto:mrinmoyeehawladar@gmail.com)
