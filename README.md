@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Mrinmoyee Hawladar
+# 👋 Hi, I'm Mrinmoyee 
 
-🎯 **Currently working as an Associate Data Science Consultant @https://www.ey.com/en_in **  
+🎯 **Currently working as an Associate Data Science Consultant [EY India](https://www.ey.com/en_in) **  
 📈 Working 9–5 in consulting, 5–9 on ML and optimization  
 📚 Writing mini-papers & case studies using Kaggle data  
 🌍 Love turning real-world problems into solvable models
